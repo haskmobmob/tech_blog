@@ -1,4 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://haskmobmob.github.io/tech_blog/"
+canonifyurls = true
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+publishDir = "docs"
