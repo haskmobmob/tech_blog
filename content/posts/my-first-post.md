@@ -1,8 +1,8 @@
 ---
-title: "My First Post"
+title: "ブログ投稿テスト"
 date: 2020-07-24T19:19:17+09:00
 draft: false
 ---
 
 - テスト
-- テスト
+- 更新テスト

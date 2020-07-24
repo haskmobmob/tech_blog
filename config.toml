@@ -1,6 +1,6 @@
 baseURL = "https://haskmobmob.github.io/tech_blog/"
 canonifyurls = true
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "備忘録"
 theme = "ananke"
 publishDir = "docs"
