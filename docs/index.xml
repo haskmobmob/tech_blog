@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>備忘録</title>
     <link>https://haskmobmob.github.io/tech_blog/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 備忘録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jul 2020 19:19:17 +0900</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>ブログ投稿テスト</title>
       <link>https://haskmobmob.github.io/tech_blog/posts/my-first-post/</link>
       <pubDate>Fri, 24 Jul 2020 19:19:17 +0900</pubDate>
       
       <guid>https://haskmobmob.github.io/tech_blog/posts/my-first-post/</guid>
-      <description> テスト  </description>
+      <description> テスト 更新テスト  </description>
     </item>
     
   </channel>

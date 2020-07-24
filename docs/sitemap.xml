@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://haskmobmob.github.io/tech_blog/posts/</loc>
+    <lastmod>2020-07-24T19:19:17+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://haskmobmob.github.io/tech_blog/posts/my-first-post/</loc>
     <lastmod>2020-07-24T19:19:17+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://haskmobmob.github.io/tech_blog/</loc>
-    <lastmod>2020-07-24T19:19:17+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://haskmobmob.github.io/tech_blog/posts/</loc>
     <lastmod>2020-07-24T19:19:17+09:00</lastmod>
   </url>
   
